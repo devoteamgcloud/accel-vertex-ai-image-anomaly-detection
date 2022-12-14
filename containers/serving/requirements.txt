@@ -1,0 +1,6 @@
+Flask==2.0.2
+Flask-Cors==3.0.10
+google-cloud-storage==1.44.0
+gunicorn==20.1.0
+--extra-index-url ${ARTIFACT_REGISTRY_URL_PACKAGE}simple/
+patchcore==${PACKAGE_VERSION}

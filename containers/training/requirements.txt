@@ -1,0 +1,2 @@
+--extra-index-url ${ARTIFACT_REGISTRY_URL_PACKAGE}simple/
+patchcore==${PACKAGE_VERSION}

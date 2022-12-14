@@ -1,0 +1,8 @@
+cloudpickle==2.0.0
+google-cloud-aiplatform==1.16.1
+google-cloud-bigquery==2.32.0
+google-cloud-storage==1.44.0
+pandas==1.3.5
+pyarrow==7.0.0
+--extra-index-url ${ARTIFACT_REGISTRY_URL_PACKAGE}simple/
+patchcore==${PACKAGE_VERSION}
